@@ -1,0 +1,30 @@
+[
+  {
+    "key": "baseurl",
+    "type": "input",
+    "defaultValue": "Enter URL",
+    "templateOptions": {
+      "label": "URL",
+      "required": true
+    }
+  },
+  {
+    "key": "apiKey",
+    "type": "input",
+    "defaultValue": "enter api key",
+    "templateOptions": {
+      "label": "API Key",
+      "required": true
+    }
+  },
+  {
+    "key": "apiSecret",
+    "type": "input",
+    "defaultValue": "Enter Api Secret",
+    "templateOptions": {
+      "label": "API Secret",
+      "type": "password",
+      "required": true
+    }
+  }
+]
